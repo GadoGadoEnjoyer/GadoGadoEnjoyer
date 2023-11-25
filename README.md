@@ -3,26 +3,25 @@
 
 # GadoGadoEnjoyer
 
-Insert description here.
+average backend dev who likes worldbuilding and anime.
 
-## This should be where the stats are
+## skills and such
 <!-- uses the iconic anuraghazra's stats. to hide progress, or tweak other things, refer to https://github.com/anuraghazra/github-readme-stats-->
 
-Insert description here.
+most of the time does php stuff. can do html and css.
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GadoGadoEnjoyer&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GadoGadoEnjoyer&theme=transparent&custom_title=language%20stats&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GadoGadoEnjoyer&show_icons=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GadoGadoEnjoyer&theme=transparent&show_icons=true&rank_icon=github&custom_title=repo%20stats" />
 </a>
 
-## This should be where the links are
-<!-- all the examples redirect to github. replace the address with the one you want-->
+## links
 
-Insert description here.
+says in the title.
 
-🌱 [some link](github.com)
+→ [**youtube**](https://www.youtube.com/@arifi3441/)
 <br>
-✨ [another link](github.com)
+→ [**reddit**](https://reddit.com/u/AverageKrupukEnjoyer)
 <br>
