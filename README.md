@@ -18,12 +18,3 @@ most of the time does php stuff. can do html and css.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GadoGadoEnjoyer&theme=transparent&show_icons=true&rank_icon=github&custom_title=repo%20stats" />
 </a>
-
-## links
-
-says in the title.
-
-→ [**youtube**](https://www.youtube.com/@arifi3441/)
-<br>
-→ [**reddit**](https://reddit.com/u/AverageKrupukEnjoyer)
-<br>
