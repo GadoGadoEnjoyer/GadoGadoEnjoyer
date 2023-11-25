@@ -3,7 +3,9 @@
 
 # GadoGadoEnjoyer
 
-average backend dev who likes worldbuilding and anime.
+average amateur backend dev
+
+Thanks for █████ for sending me this rreadMe Template!
 
 ## skills and such
 <!-- uses the iconic anuraghazra's stats. to hide progress, or tweak other things, refer to https://github.com/anuraghazra/github-readme-stats-->
