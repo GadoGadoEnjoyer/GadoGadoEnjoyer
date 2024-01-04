@@ -3,9 +3,9 @@
 
 # GadoGadoEnjoyer
 
-average amateur backend dev
+Your average amateur backend dev
 
-Thanks for █████ for sending me this rreadMe Template!
+Thanks for █████ sending me this neat readMe Template!
 
 ## skills and such
 <!-- uses the iconic anuraghazra's stats. to hide progress, or tweak other things, refer to https://github.com/anuraghazra/github-readme-stats-->
