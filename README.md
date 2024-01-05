@@ -7,6 +7,8 @@ Your average amateur backend dev
 
 Thanks for █████ sending me this neat readMe Template!
 
+Note : If you see some C++ or C on my stats, those aren't my code, but mostly just flutter codes. Can I do MobileDev? Hell no, but homework doesnt really care.
+
 ## skills and such
 <!-- uses the iconic anuraghazra's stats. to hide progress, or tweak other things, refer to https://github.com/anuraghazra/github-readme-stats-->
 
