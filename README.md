@@ -13,6 +13,7 @@ Note : If you see some C++ or C on my stats, those aren't my code, but mostly ju
 <!-- uses the iconic anuraghazra's stats. to hide progress, or tweak other things, refer to https://github.com/anuraghazra/github-readme-stats-->
 
 most of the time does php stuff. can do html and css.
+Currently learning nodejs and stuff, wish me luck I guess.
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GadoGadoEnjoyer&theme=transparent&custom_title=language%20stats&card_width=320" />
